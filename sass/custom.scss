@@ -1,0 +1,47 @@
+
+
+
+
+$font-family-sans-serif:'Roboto', sans-serif;
+
+$primary:#2a5b88;
+// $secondary:#283f7e;
+$info:#202245;
+$light:#16183d;
+$danger:#12111d;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.body{
+    overflow-x: hidden;
+}
+
+.product{
+    margin-top: 10px;
+    transition: 1s;
+}
+
+.product:hover{
+    width: 350px;
+}
+
+.productInFilter{
+    margin-top: 10px;
+    transition: 1s;
+}
+
+.productInFilter:hover{
+    width: 590px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.footer{
+    width: 103%;
+}
+
+
+
