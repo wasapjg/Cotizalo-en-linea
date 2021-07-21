@@ -1,0 +1,14 @@
+agregue las keywords : "seguros, polizas, cotizaciones, ponce, ponce de león, seguro de autos, seguros de motos, seguro
+ de hogares, seguro de casa, seguro de bici, robo, accidente personal, federacion patronal, rivadavia, zurich, integrity"
+(no estoy seguro si se puede usar esas que tengo con espacios pero en el google drive vi uno que tenia por eso las use)
+
+
+Agregue la descripción : "pagina en la que podes solicita cotizaciones para tu seguro".
+
+
+Al titulo del html "contact.html" cambie el titulo de "Contacto" a : "Contactos - Ponce de León".
+Al titulo de "signup.html" cambie el titulo de "Cotizaciones - Ponce de León - Robo" a : "Cotizaciones - Ponce de León"
+(no me habia dado cuenta de que le habia puesto robo"
+
+
+No cambie los encabezados porque no se si estan bien o mal.
