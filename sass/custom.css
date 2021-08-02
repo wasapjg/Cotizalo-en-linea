@@ -11464,12 +11464,6 @@ fieldset:disabled .btn {
 
 .product {
   margin-top: 10px;
-  -webkit-transition: 1s;
-  transition: 1s;
-}
-
-.product:hover {
-  width: 350px;
 }
 
 .productInFilter {
